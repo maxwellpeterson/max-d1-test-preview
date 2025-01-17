@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "max-d1-test-preview",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c8b4de0b-cc2b-48aa-bbf2-1da715cbb6b5",
+      "database_name": "max-d1-test-preview-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
